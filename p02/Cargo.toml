@@ -1,0 +1,7 @@
+[package]
+name = "p02"
+version = "0.1.0"
+authors = ["Badel2 <2badel2@gmail.com>"]
+
+[dependencies]
+num-bigint = "0.1"

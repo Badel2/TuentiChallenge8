@@ -1,0 +1,11 @@
+[package]
+name = "p09"
+version = "0.1.0"
+authors = ["Badel2 <2badel2@gmail.com>"]
+
+[dependencies]
+image = "*"
+
+[dependencies.sdl2]
+features = ["image"]
+version = "0.31.0"
